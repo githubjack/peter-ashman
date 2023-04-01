@@ -2,12 +2,13 @@
 
 /*
 @import './reset.css';
+*/
 @import './fonts/Inter-Medium.woff';
 @import './fonts/Inter-Regular.woff';
 @import './fonts/Jost-Regular.woff';
 @import './fonts/Jost-SemiBold.woff';
-*/
 
+@import './reset.css';
 
 @font-face {
   font-family: "JostRegular";
